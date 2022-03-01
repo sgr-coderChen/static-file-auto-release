@@ -1,0 +1,8 @@
+{
+    "build": "npm run build",
+    "dist": "dist",
+    "from": "/Users/chenhui/myCode/ZJproject/smart_zx_html_dd/html/smart_zx_html",
+    "to": "/Users/chenhui/myCode/ZJproject/common_prod_zx/zx_app_dd_h5/plenary_meeting",
+    "git": "/Users/chenhui/myCode/ZJproject/common_prod_zx",
+    "push": "git push origin release"
+}
